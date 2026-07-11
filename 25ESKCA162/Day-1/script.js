@@ -1,1 +1,0 @@
-document.getElementById('regForm').addEventListener('submit',function(e){e.preventDefault();alert('Student Registered Successfully!');this.reset();});
